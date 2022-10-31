@@ -18,6 +18,12 @@ target/
 *.iws
 *.iml
 *.ipr
+*.cmd
+mvnw
+*.properties
+*.jar
+src/main/resources/
+src/test/
 
 ### NetBeans ###
 /nbproject/private/
